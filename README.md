@@ -21,7 +21,7 @@ The programming languages used to develope these android applications are:
 - Java
 - XML
 
-   ### Installation
+### Installation
 
 These mobile apps require [Android Studio](https://developer.android.com/studio/) in order to run. In order to test the apps through an android device emulator, you will need to create an Android Virtual Device (AVD) in the IDE. 
 
